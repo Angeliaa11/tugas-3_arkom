@@ -50,8 +50,4 @@
    
       -Dukungan untuk aplikasi komersial mungkin lebih terbatas.
    
-  ~Windows:
   
-      -Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas.
-      
-      -Sering menjadi pilihan utama di lingkungan bisnis.
