@@ -49,5 +49,11 @@
       -Memiliki banyak perangkat lunak open-source.
    
       -Dukungan untuk aplikasi komersial mungkin lebih terbatas.
+
+   ~windows
+   
+      -Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas
+
+      -sering menjadi pilihan utama di lingkungan bisnis
    
   
