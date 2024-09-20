@@ -53,5 +53,4 @@
   ~Windows:
   
       1.Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas.
-   
-      2.Sering menjadi pilihan utama di lingkungan bisnis.
+      2.Sering menjadi pilihan utama di lingkungan bisnis.
