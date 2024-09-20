@@ -46,11 +46,12 @@
     
    ~Linux:
    
-      1.Memiliki banyak perangkat lunak open-source.
+      -Memiliki banyak perangkat lunak open-source.
    
-      2.Dukungan untuk aplikasi komersial mungkin lebih terbatas.
+      -Dukungan untuk aplikasi komersial mungkin lebih terbatas.
    
   ~Windows:
   
-      1.Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas.
-      2.Sering menjadi pilihan utama di lingkungan bisnis.
+      -Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas.
+      
+      -Sering menjadi pilihan utama di lingkungan bisnis.
